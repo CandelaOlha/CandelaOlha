@@ -27,7 +27,7 @@ Currently, I am looking for my first job as a frontend developer in a company th
 
 📷 Taking pictures  
  🛫 Traveling  
-🏃‍♀️ Doing sports 
+🏃‍♀️ Doing sports  
 🍿 Watching Netflix
 
 ## How to reach me
