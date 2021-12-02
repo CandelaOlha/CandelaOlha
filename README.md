@@ -1,6 +1,6 @@
 👋 Hi there! My name is Candela. I'm a UX designer and frontend developer from Buenos Aires, Argentina.
 
-Currently, I am looking for my first job as a frontend developer in a company where I can face great challenges and grow both personally and professionally.
+Currently, I am looking for my first job as a frontend developer in a company that allows me to keep learning and grow professionally.
 
 ## Education
 
@@ -20,15 +20,15 @@ Currently, I am looking for my first job as a frontend developer in a company wh
 
 - Agile methodologies
 - Figma
-- WordPress
 - Adobe Suite
+- WordPress
 
-## Also interested in
+## When I'm not coding I'm...
 
-📷 Photography  
+📷 Taking pictures  
  🛫 Traveling  
-🏃‍♀️ Sports  
-🍿 Netflix and chill
+🏃‍♀️ Doing sports 
+🍿 Watching Netflix
 
 ## How to reach me
 
