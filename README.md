@@ -1,6 +1,6 @@
 👋 Hi there! My name is Candela. I'm a UX designer and frontend developer from Buenos Aires, Argentina.
 
-Currently, I am looking for my first job as a frontend developer in a company that allows me to keep learning and grow professionally.
+Currently, I am looking for my first job as a frontend developer in a company that allows me to keep learning and growing professionally.
 
 ## Education
 
