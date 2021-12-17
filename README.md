@@ -16,7 +16,7 @@ Currently, I am looking for my first job as a frontend developer in a company th
 - Javascript
 - Git and GitHub
 
-In the next couple of months I will be learning React.
+In the next couple of months I will be learning React 🚀
 
 ## Other skills
 
