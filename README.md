@@ -1,12 +1,10 @@
 👋 Hi there! My name is Candela. I'm a UX designer and frontend developer from Buenos Aires, Argentina.
 
-Currently, I am looking for my first job as a developer in a company where I can keep learning and growing professionally.
-
 ## Education
 
 - Degree in Communications
 - Specialist in Digital Marketing and UX Design
-- Currently enrolled in a Frontend Development Bootcamp at [ADA ITW](https://adaitw.org/)
+- Frontend Developer
 
 ## Technologies
 
