@@ -4,7 +4,7 @@
 
 - Degree in Communications
 - Specialist in Digital Marketing and UX Design
-- Frontend Developer
+- Frontend developer
 
 ## Technologies
 
