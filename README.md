@@ -25,6 +25,7 @@
  🛫 Traveling  
 🏃‍♀️ Doing sports  
 🍿 Watching Netflix
+🐶 Spending time with my pets
 
 ## How to reach me
 
