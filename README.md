@@ -24,7 +24,7 @@
 📷 Taking pictures  
  🛫 Traveling  
 🏃‍♀️ Doing sports  
-🍿 Watching Netflix
+🍿 Watching Netflix  
 🐶 Spending time with my pets
 
 ## How to reach me
