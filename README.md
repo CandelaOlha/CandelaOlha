@@ -1,4 +1,4 @@
-👋 Hi there! My name is Candela. I'm a UX designer and frontend developer from Buenos Aires, Argentina.
+👋 Hi there! My name is Candela. I'm a UX designer and front-end developer from Buenos Aires, Argentina.
 
 ## Education
 
