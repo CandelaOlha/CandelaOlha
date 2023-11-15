@@ -3,7 +3,7 @@
 ## Education
 
 - Degree in Communications
-- Specialist in Digital Marketing and UX Design
+- Specialist in UX Design
 - Front-end developer
 
 ## Technologies
@@ -21,13 +21,15 @@
 
 ## When I'm not coding I'm...
 
-📷 Taking pictures  
- 🛫 Traveling  
+📷 Taking pictures   
 🏃‍♀️ Doing sports  
 🍿 Watching Netflix  
 🐶 Spending time with my pets
+ 🛫 Traveling
 
 ## How to reach me
 
 - LinkedIn: [Candela Olha](https://www.linkedin.com/in/candela-olha/)
 - Email: [olhacandela@gmail.com](mailto:olhacandela@gmail.com)
+
+My portfolio 👉 [candelaolha.netlify.app/](https://candelaolha.netlify.app/)
