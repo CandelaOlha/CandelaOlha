@@ -1,10 +1,10 @@
-👋 Hi there! My name is Candela. I'm a UX designer and front-end developer from Buenos Aires, Argentina.
+👋 Hi there! My name is Candela. I'm a web designer and front-end developer from Buenos Aires, Argentina.
 
 ## Education
 
 - Degree in Communications
-- Specialist in UX Design
 - Front-end developer
+- Passionate about design
 
 ## Technologies
 
@@ -25,7 +25,7 @@
 🏃‍♀️ Doing sports  
 🍿 Watching Netflix  
 🐶 Spending time with my pets
- 🛫 Traveling
+🛫 Traveling
 
 ## How to reach me
 
